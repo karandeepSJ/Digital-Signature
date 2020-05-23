@@ -3,7 +3,7 @@ Build a digital signature scheme using the Discrete Logarithm Problem(DLP) and
 hash functions. Design the collision-resistant hash functions also using DLP.
 
 # Scheme
-The detailed signature scheme and proof of correctness is given in [Digital Signatures](./Digital%20Signatures.pdf)
+The detailed signature scheme and proof of correctness is given in [Digital_Signatures](./Digital_Signatures.pdf)
 
 # Implementation
 The code does not establish any actual connection between the signer and verifier. The ciphertext is simply stored in a variable, which the verifier takes as a parameter.    
